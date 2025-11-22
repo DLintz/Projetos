@@ -1,2 +1,0 @@
-print("olar")
-print("oi")
